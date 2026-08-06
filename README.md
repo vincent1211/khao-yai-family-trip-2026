@@ -53,7 +53,7 @@ LINE 分享使用 `assets/images/og-cover.png`（1200×630）。更新圖片後�
 5. 將 `index.html` 中兩個 `YOUR-GITHUB-USERNAME` 換成 GitHub 帳號，重新提交。
 6. 等待 GitHub 顯示部署完成，再開啟公開網址檢查。
 
-GitHub Pages 公開網址（部署後更新）：`https://YOUR-GITHUB-USERNAME.github.io/khao-yai-family-trip-2026/`
+GitHub Pages 公開網址：`https://vincent1211.github.io/khao-yai-family-trip-2026/`
 
 ## 圖片授權與來源
 
