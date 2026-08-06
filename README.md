@@ -38,7 +38,7 @@ bangkokHotelStatus: "pending"
 
 ### ATTA 飯店照片
 
-目前的 `atta-lake.svg`、`room-living.svg`、`room-bedroom.svg`、`room-pool.svg` 是原創示意佔位圖。把合法取得的照片放進 `assets/images/`，再替換 `index.html` 對應的 `src`。建議主圖 900×700、房間圖 600×420，使用 WebP 或壓縮 JPG。
+目前已使用 ATTA 官方實景照片。若要替換成自行拍攝的照片，請放進 `assets/images/`，再替換 `index.html` 對應的 `src`。建議主圖 1200×700、房間圖 900×630，使用 WebP 或壓縮 JPG。
 
 ### Open Graph 分享圖
 
@@ -57,7 +57,14 @@ GitHub Pages 公開網址：`https://vincent1211.github.io/khao-yai-family-trip-
 
 ## 圖片授權與來源
 
-目前所有 SVG 圖片均為本專案原創幾何插畫與佔位圖，不含外部照片或第三方素材。未來若換成飯店或家庭照片，請確認為自行拍攝、飯店官方授權，或具有可再利用授權，並在此記錄來源與授權。
+首頁家庭插畫、圖示與 Open Graph 圖均為本專案原創。實景照片來源如下：
+
+- `atta-lakeside.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-banner-1500x859.jpg`。
+- `atta-penthouse-living.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `penthouse-resort-thumbnail-1500x585.jpg`。
+- `atta-garden.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-gallery-1-1050x742.jpg`。
+- `atta-architecture.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-gallery-2-1050x742.jpg`。
+- ATTA 官方來源：https://www.kirimaya.com/resorts/atta/ 。照片版權歸 Kirimaya Group 所有，本站僅供家庭旅程規劃與住宿辨識；如需其他公開用途，建議先向飯店取得書面許可。
+- `khao-yai-landscape.webp`：Mammalwatcher，Wikimedia Commons，CC0 1.0 公眾領域貢獻。來源：https://commons.wikimedia.org/wiki/File:Khao_Yai_National_Park_Landscape.JPG
 
 ## 未來可更新項目
 
