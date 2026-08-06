@@ -1,0 +1,11 @@
+{
+  "name": "沖泰菲堂之二度泰國｜2026考艾・曼谷家庭旅行",
+  "short_name": "考艾家庭旅行",
+  "description": "2026年11月12日至16日，四人一起前往泰國考艾與曼谷的山林慢旅行。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f4eb",
+  "theme_color": "#244b3c",
+  "lang": "zh-Hant-TW",
+  "icons": [{"src":"assets/icons/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
