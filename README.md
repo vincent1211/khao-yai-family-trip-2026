@@ -34,7 +34,7 @@ bangkokHotelStatus: "pending"
 
 ### 首頁家庭照片
 
-將照片放到 `assets/images/hero-family.jpg`，再把 `index.html` 的首頁圖片路徑由 `assets/images/hero-family.svg` 改成 `.jpg`。建議橫式 1600×1000 以上、人物在畫面中央偏右，檔案控制在 500KB 內；保留有意義的 `alt` 文字。
+目前首頁使用 `assets/images/hero-khao-yai.webp`。若要換成家庭照片，請放到 `assets/images/hero-family.jpg`，再修改 `index.html` 的首頁圖片路徑。建議橫式 1600×1000 以上、人物在畫面中央偏右，檔案控制在 500KB 內；保留有意義的 `alt` 文字。
 
 ### ATTA 飯店照片
 
@@ -59,6 +59,7 @@ GitHub Pages 公開網址：`https://vincent1211.github.io/khao-yai-family-trip-
 
 首頁家庭插畫、圖示與 Open Graph 圖均為本專案原創。實景照片來源如下：
 
+- `hero-khao-yai.webp`：Supanut Arunoprayote，Wikimedia Commons，CC BY-SA 3.0；由原始照片縮放並轉為 WebP。來源：https://commons.wikimedia.org/wiki/File:Green_field_and_mountain,_Kaoyai.jpg
 - `atta-lakeside.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-banner-1500x859.jpg`。
 - `atta-penthouse-living.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `penthouse-resort-thumbnail-1500x585.jpg`。
 - `atta-garden.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-gallery-1-1050x742.jpg`。
