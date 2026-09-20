@@ -64,7 +64,10 @@ GitHub Pages 公開網址：`https://vincent1211.github.io/khao-yai-family-trip-
 - `atta-penthouse-living.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `penthouse-resort-thumbnail-1500x585.jpg`。
 - `atta-garden.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-gallery-1-1050x742.jpg`。
 - `atta-architecture.webp`：Kirimaya Group 官方 ATTA 頁面，原始檔 `atta-gallery-2-1050x742.jpg`。
+- `atta-tani-restaurant.webp`：Kirimaya Group 官方 TANI Restaurant 頁面，原始檔 `TANI-banner.jpg`。此圖呈現 ATTA 度假村的 TANI 用餐空間；官方將早餐稱為 `atta Breakfast`，早餐實際地點請入住時確認。
 - ATTA 官方來源：https://www.kirimaya.com/resorts/atta/ 。照片版權歸 Kirimaya Group 所有，本站僅供家庭旅程規劃與住宿辨識；如需其他公開用途，建議先向飯店取得書面許可。
+
+Penthouse 官方列有冰箱、微波爐與熱水壺，但沒有列出爐台、烤箱、鍋具或完整餐具，因此網站將房內飲食定位為「加熱與準備簡餐」，而非可開火烹煮。設備來源：https://www.kirimaya.com/accommodation/atta-penthouse/ 。早餐供應時間與名稱來源：https://www.kirimaya.com/hotel-directory/ 。
 - `khao-yai-landscape.webp`：Mammalwatcher，Wikimedia Commons，CC0 1.0 公眾領域貢獻。來源：https://commons.wikimedia.org/wiki/File:Khao_Yai_National_Park_Landscape.JPG
 
 ## 未來可更新項目
